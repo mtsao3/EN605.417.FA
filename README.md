@@ -1,1 +1,1 @@
-This is the very latest version of the README file for the basic Introduction To GPU Programming Course.
+This is the very latest version of the README file for the basic Introduction To GPU Programming Course. Editing this README.md to complete the assignment! Hopefully I don't get a late grade cause I emailed you!
